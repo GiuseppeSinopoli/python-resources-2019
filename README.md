@@ -5,7 +5,7 @@ additions to the list please open an issue.
 # my 3 resources
 # 1) Strive
 # 2) Google
-# 3) Youtube
+# 3) Youtub3
 
 
 
